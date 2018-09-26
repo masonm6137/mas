@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://masonm6137.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
+		<name>Mason McKnight</name>
 		<email>masonm6137@afsenyc.org</email>
 	</author>
 
