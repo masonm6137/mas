@@ -1,2 +1,3 @@
 name: "Mason McKnight, Comp Sci Student"
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
