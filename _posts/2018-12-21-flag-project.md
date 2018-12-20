@@ -4,28 +4,23 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Tunisian by Mason McKnight
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+I am making the Tunisia flag and I am execpting at least a 3. I think I shold at least get a three because my flag came out exact how it was suppose to but my explaination of the project probably isn't going to be the best.
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
-
 * * *
-![Flag](/images/final-flag.png)
+![Flag of Tunisia](/_images/download.png)
 * * *
 
 ## Describe your process.
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+The big problem I ran into when I was working onn the flag was the rotating function 
 
 
 ## Explain your code.
