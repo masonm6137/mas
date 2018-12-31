@@ -20,7 +20,7 @@ I am making the Tunisia flag and I am execpting at least a 3. I think I shold at
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-The big problem I ran into when I was working onn the flag was the rotating function 
+The big problem I ran into when I was working on the flag was the rotating function and how it was working fine by itself but wasn't working when I was use the function with the rest of the program. It took messing around with the program to figure out that the positioning of a function can determine whether or not it will be used in the entire program.
 
 
 ## Explain your code.
