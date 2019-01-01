@@ -18,21 +18,23 @@ I am making the Tunisia flag and I am execpting at least a 3. I think I shold at
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
 The big problem I ran into when I was working on the flag was the rotating function and how it was working fine by itself but wasn't working when I was use the function with the rest of the program. It took messing around with the program to figure out that the positioning of a function can determine whether or not it will be used in the entire program.
 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+size=100
+width=size * 3
+height=size * 2
+RR= rectangle(width, height, "solid", "red")
+WC= circle(width / 5, "solid", "white")
+WC2= circle(width / 8.5, "solid", "white")
+RC= circle(height / 4.5, "solid", "red")
+RS= star(width / 9, "solid", "red")
+My program is technically only 13 lines so this is more than half of it.
 ```
 
 * * *
@@ -40,11 +42,25 @@ Insert 10-15 line code section here _then delete this instruction_
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
  
-<!--- Delete this comment and add your writing -->
+Width and height makes it easier to make changes in the program when it comes to the size of an images. This aurgument changes the size of the indivilual shapes by making them scalable by make necessary to only change two numders and when you changes the two numbers it changes the size of the entire image. This section of code is all of the images I have use in the program to make my finished flag of Tunisia.
 
 
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+include image
+size=100
+width=size * 3
+height=size * 2
+RR= rectangle(width, height, "solid", "red")
+WC= circle(width / 5, "solid", "white")
+WC2= circle(width / 8.5, "solid", "white")
+RC= circle(height / 4.5, "solid", "red")
+RS= star(width / 9, "solid", "red")
+RR-WC=place-image(WC, width / 2, height / 2, RR)
+RC-WC2=place-image(WC2, width / 5.4, height / 4.5, RC)
+RR-WC-RC-WC2=place-image(RC-WC2, width / 2, height / 2, RR-WC)
+RSR= rotate(310, RS)
+Tunisian-Flag=place-image(RSR, width / 1.875, height / 2.00526315789, RR-WC-RC-WC2)
+
 ```
