@@ -13,7 +13,7 @@ I am making the Tunisia flag and I am execpting at least a 3. I think I shold at
 ## Current output
 
 * * *
-(/_images/download.png)
+![Flag of Tunisia](/_images/download.png)
 * * *
 
 ## Describe your process.
